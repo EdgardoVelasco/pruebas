@@ -24,9 +24,11 @@ Se espera que el alumno analice la siguiente estructura de aplicación.
 
 2. Abrir Visual Studio 2022 
 <br>
+
 ![opcion](../images/1/2.png)
 
 3. Abrir la solución
+
 <br>
 
 ![solucion](../images/1/3.png)
@@ -41,6 +43,7 @@ Se espera que el alumno analice la siguiente estructura de aplicación.
 ```bash
 donet restore
 ```
+
 ![restore](../images/1/5.png)
 
 
