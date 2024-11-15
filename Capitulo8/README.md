@@ -17,7 +17,7 @@ y el despliegue de 4 microservicios en Kubernetes usando un archivo **yaml**
                     <br>anterior
                 </td>
                 <td style="text-align: center;">
-                   <a href="../README.md"><h4>Lista Laboratorios</h4></a>
+                   <a href="../README.md">Lista Laboratorios</a>
                 </td>
 <td style="text-align: center;">
                     <a href="../Capitulo9/README.md"><img src="../images/siguiente.png" width="40px"></a>

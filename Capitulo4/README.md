@@ -17,7 +17,7 @@ En una empresa de ventas solicitan 2 módulos que se van a comunicar entre ellos
                     <br>anterior
                 </td>
                 <td style="text-align: center;">
-                   <a href="../README.md"><h4>Lista Laboratorios</h4></a>
+                   <a href="../README.md">Lista Laboratorios</a>
                 </td>
 <td style="text-align: center;">
                     <a href="../Capitulo5/README.md"><img src="../images/siguiente.png" width="40px"></a>

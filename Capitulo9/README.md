@@ -18,7 +18,7 @@ La empresa netec requiere que se pueda monitorear el microservicio cliente para 
                     <br>anterior
                 </td>
                 <td style="text-align: center;">
-                   <a href="../README.md"><h4>Lista Laboratorios</h4></a>
+                   <a href="../README.md">Lista Laboratorios</a>
                 </td>
 <td style="text-align: center;">
                     <a href="../Capitulo10/README.md"><img src="../images/siguiente.png" width="40px"></a>

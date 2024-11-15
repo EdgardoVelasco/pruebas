@@ -18,7 +18,7 @@ En este laboratorio exploraremos la integración continúa usando Github Actions
                     <br>anterior
                 </td>
                 <td style="text-align: center;">
-                   <a href="../README.md"><h4>Lista Laboratorios</h4></a>
+                   <a href="../README.md">Lista Laboratorios</a>
                 </td>
 <td style="text-align: center;">
                     <a href="../Capitulo8/README.md"><img src="../images/siguiente.png" width="40px"></a>
