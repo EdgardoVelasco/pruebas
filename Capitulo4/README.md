@@ -1,4 +1,4 @@
-# Implementando comunicación HTTP para los microservicios [Lista de laboratorios](../README.md)
+# 4. Implementando comunicación HTTP para los microservicios
 
 En una empresa de ventas solicitan 2 módulos que se van a comunicar entre ellos **Cliente** y **Orden** para llevar el registro de las ordenes y almacenarlas en una base de datos
 
@@ -6,6 +6,28 @@ En una empresa de ventas solicitan 2 módulos que se van a comunicar entre ellos
 - Implementar Feign para comunicar microservicios
 - Diseñar interface de comunicación Feign
 - Probar la comunicación de microservicios usando postman o insomnia
+
+---
+
+<div style="width: 400px;">
+        <table width="50%">
+            <tr>
+                <td style="text-align: center;">
+                    <a href="../Capitulo3/README.md"><img src="../images/anterior.png" width="40px"></a>
+                    <br>anterior
+                </td>
+                <td style="text-align: center;">
+                   <a href="../README.md"><h4>Lista Laboratorios</h4></a>
+                </td>
+<td style="text-align: center;">
+                    <a href="../Capitulo5/README.md"><img src="../images/siguiente.png" width="40px"></a>
+                    <br>siguiente
+                </td>
+            </tr>
+        </table>
+</div>
+
+---
 
 ## Diagrama
 

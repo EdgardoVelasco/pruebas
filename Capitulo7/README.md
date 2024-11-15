@@ -1,4 +1,4 @@
-# CI/CD Github Actions [Lista laboratorios](../README.md)
+# 7. CI/CD Github Actions
 
 En este laboratorio exploraremos la integración continúa usando Github Actions y el almacenamiento de nuestra imagen Docker en Docker hub
 
@@ -7,6 +7,29 @@ En este laboratorio exploraremos la integración continúa usando Github Actions
 - Explorar las funcionalidades de **Github Actions**
 - Crear un pipeline en **Github Actions**
 - Construir una imagen de docker en **Github Actions**
+
+---
+
+<div style="width: 400px;">
+        <table width="50%">
+            <tr>
+                <td style="text-align: center;">
+                    <a href="../Capitulo6/README.md"><img src="../images/anterior.png" width="40px"></a>
+                    <br>anterior
+                </td>
+                <td style="text-align: center;">
+                   <a href="../README.md"><h4>Lista Laboratorios</h4></a>
+                </td>
+<td style="text-align: center;">
+                    <a href="../Capitulo8/README.md"><img src="../images/siguiente.png" width="40px"></a>
+                    <br>siguiente
+                </td>
+            </tr>
+        </table>
+</div>
+
+---
+
 
 
 ## Diagrama

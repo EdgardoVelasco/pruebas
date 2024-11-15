@@ -1,10 +1,32 @@
-# Asegurando microservicio con Autenticación JWT [Lista de Laboratorios](../README.md)
+# 6. Asegurando microservicio con Autenticación JWT
 La empresa netec requiere que se aseguren los endpoints del microservicio cliente, permitiendo sólo el acceso a aquellos usuarios que esten registrados en el Directorio de Usuarios de la empresa. 
 
 ## Objetivos
 - Usar Spring Security en microservicio
 - Implementar autenticación JWT usando a Keycloak
 - Configuración de identity provider (Keycloak)
+
+---
+
+<div style="width: 400px;">
+        <table width="50%">
+            <tr>
+                <td style="text-align: center;">
+                    <a href="../Capitulo5/README.md"><img src="../images/anterior.png" width="40px"></a>
+                    <br>anterior
+                </td>
+                <td style="text-align: center;">
+                   <a href="../README.md"><h4>Lista Laboratorios</h4></a>
+                </td>
+<td style="text-align: center;">
+                    <a href="../Capitulo7/README.md"><img src="../images/siguiente.png" width="40px"></a>
+                    <br>siguiente
+                </td>
+            </tr>
+        </table>
+</div>
+
+---
 
 
 ## Diagrama

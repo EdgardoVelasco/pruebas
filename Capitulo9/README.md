@@ -1,4 +1,4 @@
-# Monitoreo de Microservicios con Prometheus y Grafana [Lista laboratorios](../README.md)
+# 9. Monitoreo de Microservicios con Prometheus y Grafana
 
 La empresa netec requiere que se pueda monitorear el microservicio cliente para visualizar la cantidad y tipos de logs. Aunque requieren que estas metrícas puedan verse gráficamente.
 
@@ -7,6 +7,30 @@ La empresa netec requiere que se pueda monitorear el microservicio cliente para 
 - Consumir métricas en prometheus y crear gráficas
 - Conectar prometheus con grafana 
 - Crear grafana dashboards
+
+---
+
+<div style="width: 400px;">
+        <table width="50%">
+            <tr>
+                <td style="text-align: center;">
+                    <a href="../Capitulo8/README.md"><img src="../images/anterior.png" width="40px"></a>
+                    <br>anterior
+                </td>
+                <td style="text-align: center;">
+                   <a href="../README.md"><h4>Lista Laboratorios</h4></a>
+                </td>
+<td style="text-align: center;">
+                    <a href="../Capitulo10/README.md"><img src="../images/siguiente.png" width="40px"></a>
+                    <br>siguiente
+                </td>
+            </tr>
+        </table>
+</div>
+
+
+---
+
 
 ## Diagrama
 

@@ -1,4 +1,4 @@
-# Microfrontend con Angular 18 [Lista Laboratorios](../README.md)
+# 10. Microfrontend con Angular 18
 En este laboratorio se explora las bases de los microfrontends usando 
 **native-federation** en angular 18
 
@@ -7,6 +7,29 @@ En este laboratorio se explora las bases de los microfrontends usando
 - Crear un microfrontend
 - Comunicar microfrontend con shell
 - Interactuar con microfrontends con explorador web
+
+---
+
+<div style="width: 400px;">
+        <table width="50%">
+            <tr>
+                <td style="text-align: center;">
+                    <a href="../Capitulo9/README.md"><img src="../images/anterior.png" width="40px"></a>
+                    <br>anterior
+                </td>
+                <td style="text-align: center;">
+                   <a href="../README.md"><h4>Lista Laboratorios</h4></a>
+                </td>
+<td style="text-align: center;">
+                    <a href="../Capitulo11/README.md"><img src="../images/siguiente.png" width="40px"></a>
+                    <br>siguiente
+                </td>
+            </tr>
+        </table>
+</div>
+
+---
+
 
 ## Diagrama
 

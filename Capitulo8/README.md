@@ -1,4 +1,4 @@
-# Despliegue de microservicios con Kubernetes Local [Lista Laboratorios](../README.md)
+# 8. Despliegue de microservicios con Kubernetes Local
 En este laboratorio exploraremos el uso de CI/CD para la creación automatica de imagenes
 y el despliegue de 4 microservicios en Kubernetes usando un archivo **yaml**
 
@@ -6,6 +6,29 @@ y el despliegue de 4 microservicios en Kubernetes usando un archivo **yaml**
 - Uso de **Git hub Actions** para generar imágenes de docker
 - Configuración de kubernetes
 - Despliegue de aplicación en kubernetes
+
+---
+
+<div style="width: 400px;">
+        <table width="50%">
+            <tr>
+                <td style="text-align: center;">
+                    <a href="../Capitulo7/README.md"><img src="../images/anterior.png" width="40px"></a>
+                    <br>anterior
+                </td>
+                <td style="text-align: center;">
+                   <a href="../README.md"><h4>Lista Laboratorios</h4></a>
+                </td>
+<td style="text-align: center;">
+                    <a href="../Capitulo9/README.md"><img src="../images/siguiente.png" width="40px"></a>
+                    <br>siguiente
+                </td>
+            </tr>
+        </table>
+</div>
+
+
+---
 
 
 ## Diagrama

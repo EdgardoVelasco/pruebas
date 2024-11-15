@@ -1,4 +1,4 @@
-# Aislando configuración de microservicio con Spring Cloud [Lista Laboratorios](../README.md)
+# 5. Aislando configuración de microservicio con Spring Cloud
 En la empresa netec se requiere implementar un servicio que permite externalizar la configuración de los microservicios, para cumplir con los 12 factores de heroku. 
 
 ## Objetivos
@@ -6,6 +6,27 @@ En la empresa netec se requiere implementar un servicio que permite externalizar
 - Configuración de Spring Cloud Config
 - Creación de repositorio para la gestión de configuración
 - Pruebas de configuración
+
+---
+<div style="width: 400px;">
+        <table width="50%">
+            <tr>
+                <td style="text-align: center;">
+                    <a href="../Capitulo4/README.md"><img src="../images/anterior.png" width="40px"></a>
+                    <br>anterior
+                </td>
+                <td style="text-align: center;">
+                   <a href="../README.md"><h4>Lista Laboratorios</h4></a>
+                </td>
+<td style="text-align: center;">
+                    <a href="../Capitulo6/README.md"><img src="../images/siguiente.png" width="40px"></a>
+                    <br>siguiente
+                </td>
+            </tr>
+        </table>
+</div>
+
+---
 
 ## Diagrama
 

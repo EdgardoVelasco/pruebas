@@ -1,4 +1,4 @@
-# Sistema Monolítico .net Core 8
+# 1. Sistema Monolítico .net Core 8
 
 En este laboratorio se implementa una aplicación monolítica de .net core usando Visual Studio 2022
 
@@ -17,14 +17,14 @@ navegación-->
         <table width="50%">
             <tr>
                 <td style="text-align: center;">
-                    <a><img src="../images/anterior.png" width="40px"></a>
+                    <a href=""><img src="../images/anterior.png" width="40px"></a>
                     <br>anterior
                 </td>
                 <td style="text-align: center;">
-                   <a href="../MLOps_Databricks/README.md"><h4>Lista Laboratorios</h4></a>
+                   <a href="../README.md"><h4>Lista Laboratorios</h4></a>
                 </td>
 <td style="text-align: center;">
-                    <a><img src="../images/siguiente.png" width="40px"></a>
+                    <a href="../Capitulo2/README.md"><img src="../images/siguiente.png" width="40px"></a>
                     <br>siguiente
                 </td>
             </tr>

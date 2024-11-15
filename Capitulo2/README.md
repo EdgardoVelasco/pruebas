@@ -1,4 +1,4 @@
-# Servicio de Descubrimiento con microservicios [Lista de Laboratorios](../README.md)
+# 2. Servicio de Descubrimiento con microservicios
 En este laboratorio se implementa un microservicio escalado horizontalmente con el servicio de descubrimiento Eureka
 
 
@@ -7,6 +7,27 @@ En este laboratorio se implementa un microservicio escalado horizontalmente con 
 - Implementar el servicio de descubrimiento Eureka
 - Registrar microservicio
 - Escalado horizontal del microservicio
+
+---
+<div style="width: 400px;">
+        <table width="50%">
+            <tr>
+                <td style="text-align: center;">
+                    <a href="../Capitulo1/README.md"><img src="../images/anterior.png" width="40px"></a>
+                    <br>anterior
+                </td>
+                <td style="text-align: center;">
+                   <a href="../README.md"><h4>Lista Laboratorios</h4></a>
+                </td>
+<td style="text-align: center;">
+                    <a href="../Capitulo3/README.md"><img src="../images/siguiente.png" width="40px"></a>
+                    <br>siguiente
+                </td>
+            </tr>
+        </table>
+</div>
+
+---
 
 ## Diagrama
 

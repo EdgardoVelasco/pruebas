@@ -1,10 +1,33 @@
-# Diseño de microservicios con Spring Boot [Lista de Laboratorios](../README.md)
+# 3. Diseño de microservicios con Spring Boot 
 Crear un microservicio dedicado a la gestión de clientes que permita registrar, actualizar, consultar y eliminar información de clientes de manera segura y eficiente. Este microservicio deberá integrarse en un sistema más amplio en un futuro. 
 ## Objetivos
 - Diseñar un microservicio
 - Implementar una fuente de datos externa
 - Utilizar Spring Data JPA para la creación del repositorio de datos
 - Implementar un controlador que expone las operaciones de http fuera del microservicio
+
+---
+
+<div style="width: 400px;">
+        <table width="50%">
+            <tr>
+                <td style="text-align: center;">
+                    <a href="../Capitulo2/README.md"><img src="../images/anterior.png" width="40px"></a>
+                    <br>anterior
+                </td>
+                <td style="text-align: center;">
+                   <a href="../README.md"><h4>Lista Laboratorios</h4></a>
+                </td>
+<td style="text-align: center;">
+                    <a href="../Capitulo4/README.md"><img src="../images/siguiente.png" width="40px"></a>
+                    <br>siguiente
+                </td>
+            </tr>
+        </table>
+</div>
+
+---
+
 
 ## Diagrama
 
