@@ -13,28 +13,22 @@ En este laboratorio se implementa una aplicación monolítica de .net core usand
 <!--Este fragmento es la barra de 
 navegación-->
 
-<div style="width: 500px;">
-<table style="width: 100%;">
-<tr>
-   <td>
-    <a href="">
-    <img src="../images/atras.png" width="90px">
-    </a>
-    </td>
-    <td><h3>anterior lab</h3></td>
-    <td style="width: 35%;">
-    <a href="../README.md" style="font-size: 25px; font-weight: bold;">Lista Labs</a>
-    </td>
-    <td>
-    <h3>siguiente lab</h3>
-    </td>
-    <td>
-    <a href="../Capitulo2/README.md">
-    <img src="../images/adelante.png" width="90px">
-    </a>
-    </td>
-    </tr>
-    </table>
+<div style="width: 400px;">
+        <table width="50%">
+            <tr>
+                <td style="text-align: start;">
+                    <a><img src="../images/anterior.png" width="40px"></a>
+                    <br>anterior
+                </td>
+                <td style="text-align: center;">
+                   <a href="../MLOps_Databricks/README.md"><h4>Lista Laboratorios</h4></a>
+                </td>
+<td style="text-align: end;">
+                    <a><img src="../images/siguiente.png" width="40px"></a>
+                    <br>siguiente
+                </td>
+            </tr>
+        </table>
 </div>
 
 ---

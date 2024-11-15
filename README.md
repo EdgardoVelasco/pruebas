@@ -3,7 +3,7 @@
   <tbody>
       <tr>
     <td> 
-        <img src="./images/neteclogo.png" width="150px">
+        <img src="./images/neteclogo.png" width="250px">
     <td>
     <td>
       <h1>Microservicios con Spring Cloud Essentials<h1>
