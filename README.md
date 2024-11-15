@@ -6,7 +6,7 @@
         <img src="./images/neteclogo.png" width="250px">
     <td>
     <td>
-      <h2>Microservicios con Spring Cloud Essentials<h2>
+      <h1>Microservicios con Spring Cloud Essentials<h1>
     </td>
   </tr>
   </tbody>
