@@ -1,4 +1,4 @@
-# Sistema Monolítico .net Core 8 [Lista de Laboratorios](../README.md)
+# Sistema Monolítico .net Core 8
 
 En este laboratorio se implementa una aplicación monolítica de .net core usando Visual Studio 2022
 
@@ -9,6 +9,35 @@ En este laboratorio se implementa una aplicación monolítica de .net core usand
 - Analizar los componentes del sistema
 - Entender MVC 
 
+---
+<!--Este fragmento es la barra de 
+navegación-->
+
+<div style="width: 500px;">
+<table style="width: 100%;">
+<tr>
+   <td>
+    <a href="">
+    <img src="../images/atras.png" width="90px">
+    </a>
+    </td>
+    <td><h3>anterior lab</h3></td>
+    <td style="width: 35%;">
+    <a href="../README.md" style="font-size: 25px; font-weight: bold;">Lista Labs</a>
+    </td>
+    <td>
+    <h3>siguiente lab</h3>
+    </td>
+    <td>
+    <a href="../Capitulo2/README.md">
+    <img src="../images/adelante.png" width="90px">
+    </a>
+    </td>
+    </tr>
+    </table>
+</div>
+
+---
 
 ## Diagrama 
 

@@ -313,6 +313,7 @@ minikube service client-service
 ```
 
 2. El comando anterior nos entregará un url
+
     <img src="../images/8/5.png" width="500px">
 
 3. Copiamos el url y válidamos el funcionamiento de nuestro **Microservicio Cliente** en Insomnia o Postman

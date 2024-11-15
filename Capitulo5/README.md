@@ -83,21 +83,21 @@ spring.datasource.password=1234
 
 > **IMPORTANTE**: El nombre del archivo debe de ser el mismo nombre que tenga el microservicio client en el archivo **properties**
 
-5. Agregamos los cambios desde la terminal
+8. Agregamos los cambios desde la terminal
 
 ```bash
 git add .
 ```
 <img src="../images/5/4.png" width="500px">
 
-6. Confirmamos los cambios
+9. Confirmamos los cambios
 
 ```bash
 git commit -m "configuration"
 ```
 <img src="../images/5/5.png" width="500px">
 
-7. Validamos que no haya nada que confirmar. 
+10. Validamos que no haya nada que confirmar. 
 
 ```bash
 git status
